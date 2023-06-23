@@ -1,6 +1,6 @@
 @media screen and (max-width:768px) {
     body {
-        font-family: "bebas neue";
+        font-family: "Bebas Neue";
      }
     .menu-header {
         display: none;
@@ -78,7 +78,7 @@
         height: 100%;
       }
     }
-    @media screen and (min-width: 768) {
+    @media screen and (min-width: 768px) {
         .menu-header {
             display: flex !important;
         }
